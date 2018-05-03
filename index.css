@@ -1,6 +1,6 @@
 *{
     width: auto;
-    height: auto; 
+    height: auto;
 }
 #wrapper{
     height: auto;
@@ -14,8 +14,8 @@
     width: 950px;
     padding: 5px;
     margin-left: 20px;
- 
-} 
+
+}
 .header2{
     margin-left: 60px;
     width: 750px;
@@ -27,7 +27,7 @@
     color: white;
     font-size: 17px;
     vertical-align: top;
-    margin-left: 90px; 
+    margin-left: 90px;
 }
 .header h1{
     padding: 15px;
@@ -64,7 +64,7 @@
 .projects img{
     width: 4px;
     padding: 5px;
-    
+
 }
 .projects h2 {
     color: white;
@@ -135,6 +135,15 @@
 }
 .right-content p{
     color: #395264;
+}
+.tech_images li{
+	display: inline-block;
+
+
+}
+.tech_images img{
+	width:50px;
+	height:50px;
 }
 .footer{
     height: 50px;
