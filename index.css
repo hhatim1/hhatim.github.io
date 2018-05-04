@@ -3,37 +3,45 @@
     height: auto;
 }
 #wrapper{
-    height: auto, 1000px;;
-    width: 960px;
-    margin-left: 3px;
+    height: 1040px;;
+    width: 975px;
+    margin-left: 5px;
     background-color: #062234;
     padding: 5px;
 }
 .header {
-    height:100px;
-    width: 930;
-    padding: 5px;
-    margin-left: 10px;
+    height:80px;
+    width: 920;
+   
+    margin-left: 15px;
+    
 
 }
 .header2{
-    margin-left: 60px;
-    width: 750px;
-    margin-top: -55px;
+    margin-left: 180px;
+    width: 450px;
+    margin-top: -58px;
+   
+}
+.header1 {
+    margin-left: 20px;
+    width: 200px;
+    margin-top: 20px;
+ 
 }
 .header2 li{
     display: inline;
     margin: 1px;
-    color: white;
-    font-size: 20px;
-    vertical-align: top;
-    margin-left: 90px;
+    font-size: 25px;
+    margin-left: 30px;
 }
+
 .header h1{
     padding: 15px;
     margin-left: -10px;
     color: white;
     font-size: 25px;
+    font-family: Cambria;
 }
 .header span{
     color: #1993e2;
@@ -51,7 +59,7 @@
 .image-main img{
     width: 940px;
     height: 450px;
-    margin-top: 36px;
+    margin-top: 5px;
 }
 .projects{
     width:310px;
