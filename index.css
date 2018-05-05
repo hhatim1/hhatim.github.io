@@ -3,8 +3,8 @@
     height: auto;
 }
 #wrapper{
-    height: 1040px;;
-    width: 975px;
+    height: 1045px;;
+    width: 980px;
     margin-left: 5px;
     background-color: #062234;
     padding: 5px;
@@ -162,6 +162,9 @@
     color: #e7edf1;
 }
 /* ----------------------------------------------------- */
+.main-content {
+    margin-top: 5px;
+}
 .footer_images {
     width: 180px;
     height: 60px;
